@@ -10,7 +10,7 @@
 [![PyPI](https://img.shields.io/badge/PyPI-gemex-blue.svg)](https://pypi.org/project/gemex)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**[→ Open the Playground](https://utkukose.github.io/gemex-playground/)**
+**[→ Open the Playground](https://utkukose.github.io/gemex_playground/)**
 
 </div>
 
